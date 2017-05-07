@@ -1,0 +1,4 @@
+﻿  BitManip.cpp
+c:\users\prash\onedrive\documents\visual studio 2015\projects\bitmanip\bitmanip\bitmanip.cpp(99): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  BitManip.vcxproj -> c:\users\prash\onedrive\documents\visual studio 2015\Projects\BitManip\Debug\BitManip.exe
+  BitManip.vcxproj -> c:\users\prash\onedrive\documents\visual studio 2015\Projects\BitManip\Debug\BitManip.pdb (Full PDB)

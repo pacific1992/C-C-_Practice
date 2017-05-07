@@ -1,0 +1,8 @@
+﻿  ShallowAndDeepCopy.cpp
+c:\users\prash\onedrive\documents\visual studio 2015\projects\shallowanddeepcopy\shallowanddeepcopy\shallowanddeepcopy.cpp(16): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\shallowanddeepcopy\shallowanddeepcopy\shallowanddeepcopy.cpp(17): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\shallowanddeepcopy\shallowanddeepcopy\shallowanddeepcopy.cpp(21): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\shallowanddeepcopy\shallowanddeepcopy\shallowanddeepcopy.cpp(29): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\shallowanddeepcopy\shallowanddeepcopy\shallowanddeepcopy.cpp(30): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+  ShallowAndDeepCopy.vcxproj -> c:\users\prash\onedrive\documents\visual studio 2015\Projects\ShallowAndDeepCopy\Debug\ShallowAndDeepCopy.exe
+  ShallowAndDeepCopy.vcxproj -> c:\users\prash\onedrive\documents\visual studio 2015\Projects\ShallowAndDeepCopy\Debug\ShallowAndDeepCopy.pdb (Full PDB)

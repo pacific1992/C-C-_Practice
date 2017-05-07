@@ -1,0 +1,5 @@
+﻿  StringManip.c
+c:\users\prash\onedrive\documents\visual studio 2015\projects\stringmanip\stringmanip\stringmanip.c(14): warning C4101: 'a': unreferenced local variable
+c:\users\prash\onedrive\documents\visual studio 2015\projects\stringmanip\stringmanip\stringmanip.c(23): warning C4716: 'revstr': must return a value
+  StringManip.vcxproj -> c:\users\prash\onedrive\documents\visual studio 2015\Projects\StringManip\Debug\StringManip.exe
+  StringManip.vcxproj -> c:\users\prash\onedrive\documents\visual studio 2015\Projects\StringManip\Debug\StringManip.pdb (Full PDB)

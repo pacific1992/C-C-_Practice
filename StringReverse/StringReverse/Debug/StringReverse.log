@@ -1,0 +1,6 @@
+﻿  StringReverse.cpp
+c:\users\prash\onedrive\documents\visual studio 2015\projects\stringreverse\stringreverse\stringreverse.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\prash\onedrive\documents\visual studio 2015\projects\stringreverse\stringreverse\stringreverse.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\prash\onedrive\documents\visual studio 2015\projects\stringreverse\stringreverse\stringreverse.cpp(160): warning C4018: '<': signed/unsigned mismatch
+  StringReverse.vcxproj -> C:\Users\prash\OneDrive\Documents\Visual Studio 2015\Projects\StringReverse\Debug\StringReverse.exe
+  StringReverse.vcxproj -> C:\Users\prash\OneDrive\Documents\Visual Studio 2015\Projects\StringReverse\Debug\StringReverse.pdb (Full PDB)

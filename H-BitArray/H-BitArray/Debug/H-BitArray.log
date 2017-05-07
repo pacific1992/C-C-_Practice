@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  H-BitArray.cpp
+c:\users\prash\onedrive\documents\visual studio 2015\projects\h-bitarray\h-bitarray\h-bitarray.cpp(19): error C4146: unary minus operator applied to unsigned type, result still unsigned
+c:\users\prash\onedrive\documents\visual studio 2015\projects\h-bitarray\h-bitarray\h-bitarray.cpp(19): error C3861: '__builtin_popcount': identifier not found
+c:\users\prash\onedrive\documents\visual studio 2015\projects\h-bitarray\h-bitarray\h-bitarray.cpp(20): error C4146: unary minus operator applied to unsigned type, result still unsigned
+c:\users\prash\onedrive\documents\visual studio 2015\projects\h-bitarray\h-bitarray\h-bitarray.cpp(20): error C3861: '__builtin_popcount': identifier not found
+c:\users\prash\onedrive\documents\visual studio 2015\projects\h-bitarray\h-bitarray\h-bitarray.cpp(28): error C4146: unary minus operator applied to unsigned type, result still unsigned
+c:\users\prash\onedrive\documents\visual studio 2015\projects\h-bitarray\h-bitarray\h-bitarray.cpp(38): error C4146: unary minus operator applied to unsigned type, result still unsigned

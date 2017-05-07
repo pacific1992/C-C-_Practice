@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  DynamicArrays.cpp
+c:\users\prash\onedrive\documents\visual studio 2015\projects\dynamicarrays\dynamicarrays\dynamicarrays.cpp(5): error C2059: syntax error: '*'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\dynamicarrays\dynamicarrays\dynamicarrays.cpp(6): error C2059: syntax error: '*'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\dynamicarrays\dynamicarrays\dynamicarrays.cpp(20): error C2059: syntax error: '='
+c:\users\prash\onedrive\documents\visual studio 2015\projects\dynamicarrays\dynamicarrays\dynamicarrays.cpp(20): warning C5030: attribute 'rows' is not recognized
+c:\users\prash\onedrive\documents\visual studio 2015\projects\dynamicarrays\dynamicarrays\dynamicarrays.cpp(22): error C2146: syntax error: missing ')' before identifier 'row'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\dynamicarrays\dynamicarrays\dynamicarrays.cpp(22): error C2065: 'row': undeclared identifier
+c:\users\prash\onedrive\documents\visual studio 2015\projects\dynamicarrays\dynamicarrays\dynamicarrays.cpp(23): warning C5030: attribute 'row' is not recognized
+c:\users\prash\onedrive\documents\visual studio 2015\projects\dynamicarrays\dynamicarrays\dynamicarrays.cpp(23): error C2143: syntax error: missing ';' before 'attribute specifier'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\dynamicarrays\dynamicarrays\dynamicarrays.cpp(23): error C2059: syntax error: '='
+c:\users\prash\onedrive\documents\visual studio 2015\projects\dynamicarrays\dynamicarrays\dynamicarrays.cpp(23): warning C5030: attribute 'columns' is not recognized
+c:\users\prash\onedrive\documents\visual studio 2015\projects\dynamicarrays\dynamicarrays\dynamicarrays.cpp(25): error C2660: 'fill': function does not take 3 arguments
+c:\users\prash\onedrive\documents\visual studio 2015\projects\dynamicarrays\dynamicarrays\dynamicarrays.cpp(28): error C2660: 'print': function does not take 3 arguments

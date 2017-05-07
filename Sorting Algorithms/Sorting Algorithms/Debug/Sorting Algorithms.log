@@ -1,0 +1,6 @@
+﻿  QuickSortSuboptimal.cpp
+c:\users\prash\onedrive\documents\visual studio 2015\projects\sorting algorithms\sorting algorithms\sorter.h(46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\prash\onedrive\documents\visual studio 2015\projects\sorting algorithms\sorting algorithms\sorter.h(58): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\prash\onedrive\documents\visual studio 2015\projects\sorting algorithms\sorting algorithms\quicksorter.h(24): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Sorting Algorithms.vcxproj -> C:\Users\prash\OneDrive\Documents\Visual Studio 2015\Projects\Sorting Algorithms\Debug\Sorting Algorithms.exe
+  Sorting Algorithms.vcxproj -> C:\Users\prash\OneDrive\Documents\Visual Studio 2015\Projects\Sorting Algorithms\Debug\Sorting Algorithms.pdb (Full PDB)

@@ -1,0 +1,9 @@
+﻿  H-ExxceptionalServer.cpp
+c:\users\prash\onedrive\documents\visual studio 2015\projects\h-exxceptionalserver\h-exxceptionalserver\h-exxceptionalserver.cpp(20): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\prash\onedrive\documents\visual studio 2015\projects\h-exxceptionalserver\h-exxceptionalserver\h-exxceptionalserver.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\prash\onedrive\documents\visual studio 2015\projects\h-exxceptionalserver\h-exxceptionalserver\h-exxceptionalserver.cpp(23): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\prash\onedrive\documents\visual studio 2015\projects\h-exxceptionalserver\h-exxceptionalserver\h-exxceptionalserver.cpp(24): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\prash\onedrive\documents\visual studio 2015\projects\h-exxceptionalserver\h-exxceptionalserver\h-exxceptionalserver.cpp(25): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+c:\users\prash\onedrive\documents\visual studio 2015\projects\h-exxceptionalserver\h-exxceptionalserver\h-exxceptionalserver.cpp(43): warning C4101: 'b': unreferenced local variable
+  H-ExxceptionalServer.vcxproj -> c:\users\prash\onedrive\documents\visual studio 2015\Projects\H-ExxceptionalServer\Debug\H-ExxceptionalServer.exe
+  H-ExxceptionalServer.vcxproj -> c:\users\prash\onedrive\documents\visual studio 2015\Projects\H-ExxceptionalServer\Debug\H-ExxceptionalServer.pdb (Full PDB)

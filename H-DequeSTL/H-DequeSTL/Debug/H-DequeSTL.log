@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  H-DequeSTL.cpp
+c:\users\prash\onedrive\documents\visual studio 2015\projects\h-dequestl\h-dequestl\h-dequestl.cpp(15): error C2131: expression did not evaluate to a constant
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\h-dequestl\h-dequestl\h-dequestl.cpp(15): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\h-dequestl\h-dequestl\h-dequestl.cpp(15): note: see usage of 'n'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\h-dequestl\h-dequestl\h-dequestl.cpp(17): warning C4552: '>>': operator has no effect; expected operator with side-effect

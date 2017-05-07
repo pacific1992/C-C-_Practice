@@ -1,0 +1,42 @@
+﻿  SafeArrayV5.cpp
+c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(33): error C2440: 'initializing': cannot convert from 'nullptr' to 'int'
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(33): note: A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(32): note: while compiling class template member function 'SafeArray<int>::SafeArray(T,T)'
+          with
+          [
+              T=int
+          ]
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearrayv5.cpp(32): note: see reference to function template instantiation 'SafeArray<int>::SafeArray(T,T)' being compiled
+          with
+          [
+              T=int
+          ]
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearrayv5.cpp(32): note: see reference to class template instantiation 'SafeArray<int>' being compiled
+c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(33): error C2439: 'SafeArray<int>::smaller': member could not be initialized
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(21): note: see declaration of 'SafeArray<int>::smaller'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(33): error C2439: 'SafeArray<int>::larger': member could not be initialized
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(22): note: see declaration of 'SafeArray<int>::larger'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(34): error C2100: illegal indirection
+c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(35): error C2100: illegal indirection
+c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(42): error C2446: '!=': no conversion from 'nullptr' to 'int'
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(42): note: A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(41): note: while compiling class template member function 'SafeArray<int>::~SafeArray(void)'
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearrayv5.cpp(32): note: see reference to function template instantiation 'SafeArray<int>::~SafeArray(void)' being compiled
+c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(42): error C2541: 'delete': cannot delete objects that are not pointers
+c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(68): error C2065: 'length': undeclared identifier
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(67): note: while compiling class template member function 'int &SafeArray<int>::operator [](int) const'
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearrayv5.cpp(36): note: see reference to function template instantiation 'int &SafeArray<int>::operator [](int) const' being compiled
+c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(69): error C2065: 'elements': undeclared identifier
+c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(42): error C2678: binary '!=': no operator found which takes a left-hand operand of type 'std::string' (or there is no acceptable conversion)
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\system_error(419): note: could be 'bool std::operator !=(const std::error_condition &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\system_error(412): note: or       'bool std::operator !=(const std::error_condition &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\system_error(405): note: or       'bool std::operator !=(const std::error_code &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\system_error(398): note: or       'bool std::operator !=(const std::error_code &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\exception(354): note: or       'bool std::operator !=(const std::exception_ptr &,std::nullptr_t) throw()'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\exception(349): note: or       'bool std::operator !=(std::nullptr_t,const std::exception_ptr &) throw()'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\exception(344): note: or       'bool std::operator !=(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(42): note: while trying to match the argument list '(std::string, nullptr)'
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(41): note: while compiling class template member function 'SafeArray<std::string>::~SafeArray(void)'
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearrayv5.cpp(46): note: see reference to function template instantiation 'SafeArray<std::string>::~SafeArray(void)' being compiled
+c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(42): error C2440: 'delete': cannot convert from 'std::string' to 'void*'
+  c:\users\prash\onedrive\documents\visual studio 2015\projects\safearrayv5\safearrayv5\safearray.h(42): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called

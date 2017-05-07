@@ -1,0 +1,6 @@
+﻿  Struct.cpp
+c:\users\prash\onedrive\documents\visual studio 2015\projects\struct\struct\struct.cpp(13): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'Movie *'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\struct\struct\struct.cpp(17): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'movies_t **'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\struct\struct\struct.cpp(18): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'movies_t *'
+  Struct.vcxproj -> c:\users\prash\onedrive\documents\visual studio 2015\Projects\Struct\Debug\Struct.exe
+  Struct.vcxproj -> c:\users\prash\onedrive\documents\visual studio 2015\Projects\Struct\Debug\Struct.pdb (Full PDB)

@@ -1,0 +1,9 @@
+﻿  Hashtables.c
+c:\users\prash\onedrive\documents\visual studio 2015\projects\hashtables\hashtables\hashtables.c(34): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'int'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\hashtables\hashtables\hashtables.c(34): warning C4024: 'hash': different types for formal and actual parameter 1
+c:\users\prash\onedrive\documents\visual studio 2015\projects\hashtables\hashtables\hashtables.c(39): warning C4047: '==': 'char *' differs in levels of indirection from 'int'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\hashtables\hashtables\hashtables.c(61): warning C4047: '!=': 'char *' differs in levels of indirection from 'int'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\hashtables\hashtables\hashtables.c(99): warning C4047: 'function': 'int' differs in levels of indirection from 'char *'
+c:\users\prash\onedrive\documents\visual studio 2015\projects\hashtables\hashtables\hashtables.c(99): warning C4024: 'search': different types for formal and actual parameter 1
+  Hashtables.vcxproj -> c:\users\prash\onedrive\documents\visual studio 2015\Projects\Hashtables\Debug\Hashtables.exe
+  Hashtables.vcxproj -> c:\users\prash\onedrive\documents\visual studio 2015\Projects\Hashtables\Debug\Hashtables.pdb (Full PDB)

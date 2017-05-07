@@ -1,0 +1,4 @@
+﻿  RevStr.cpp
+c:\users\prash\onedrive\documents\visual studio 2015\projects\revstr\revstr\revstr.cpp(35): error C3867: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::begin': non-standard syntax; use '&' to create a pointer to member
+c:\users\prash\onedrive\documents\visual studio 2015\projects\revstr\revstr\revstr.cpp(35): error C3867: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::end': non-standard syntax; use '&' to create a pointer to member
+c:\users\prash\onedrive\documents\visual studio 2015\projects\revstr\revstr\revstr.cpp(35): error C2672: 'std::reverse': no matching overloaded function found

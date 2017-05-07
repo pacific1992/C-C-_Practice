@@ -1,0 +1,4 @@
+﻿  HackerRank.c
+c:\users\prash\onedrive\documents\visual studio 2015\projects\hackerrank\hackerrank\hackerrank.c(61): warning C4018: '<': signed/unsigned mismatch
+  HackerRank.vcxproj -> C:\Users\prash\OneDrive\Documents\Visual Studio 2015\Projects\HackerRank\Debug\HackerRank.exe
+  HackerRank.vcxproj -> C:\Users\prash\OneDrive\Documents\Visual Studio 2015\Projects\HackerRank\Debug\HackerRank.pdb (Full PDB)
